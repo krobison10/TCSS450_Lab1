@@ -17,7 +17,7 @@ import edu.uw.tcss450.kylerr10.lab1myfirstapp.databinding.FragmentFirstBinding;
 
 /**
  * A simple {@link Fragment} subclass.
- * A simple {@link Fragment} subclass.
+ * A simple {@link Fragment} subclass
  */
 public class FirstFragment extends Fragment {
 
