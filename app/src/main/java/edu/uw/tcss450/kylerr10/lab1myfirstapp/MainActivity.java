@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
         //Must be called at end of method, R refers to resources xml for the activity
         setContentView(R.layout.activity_main);
-        Log.v("Lifecycle Event", "Create");
+        Log.w("Lifecycle Event", "Create");
     }
 
     @Override
